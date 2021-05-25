@@ -1,0 +1,5 @@
+Here are the links for the resources:
+
+Video: https://youtu.be/1jibkMYdjxY
+PDF: https://tjmachinelearning.com/lectures/2021/advanced/bayesian-networks/Bayesian_Networks.pdf
+Slides: https://docs.google.com/presentation/d/1jUpJB3Y7L1qBFFAC3bGSlshyHDRExciIxBMd5CgTkdg/edit?usp=sharing
